@@ -7,11 +7,14 @@
 <h5 align="center">**** Task 1 ****
 
 <p>
--
+Ćwiecznia ... Zadanie ... Temat:  
+
+
 </p>
 ---- English ----
 <p>
--
+Exercise ... Task ... Subject:
+
 </p>
 
 
