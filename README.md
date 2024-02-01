@@ -7,13 +7,34 @@
 <h5 align="center">**** Task 1 ****
 
 <p>
-Ćwiecznia ... Zadanie ... Temat:  
-
+Ćwiecznia 1
+Ćwiecznia 2
+Ćwiecznia 3
+Ćwiecznia 4
+Ćwiecznia 5 Zadanie 1.1 Temat: Energia i Moc : "Ćwiczenia 5.pdf"
+Ćwiecznia 6
+Ćwiecznia 7
+Ćwiecznia 8
+Ćwiecznia 9
+Ćwiecznia 10
+Ćwiecznia 11
+Ćwiecznia 12
+Ćwiecznia 13
+Ćwiecznia 14
 
 </p>
 ---- English ----
 <p>
-Exercise ... Task ... Subject:
+Exercise 5 Task 1.1 Subject: Energy and Power : "Ćwiczenia 5.pdf"
+Exercise 6
+Exercise 7
+Exercise 8
+Exercise 9
+Exercise 10
+Exercise 11
+Exercise 12
+Exercise 13
+Exercise 14
 
 </p>
 
